@@ -1,1 +1,1 @@
-FROM nginx/nginx-ingress:edge
+FROM nginx/nginx-ingress:edge 
