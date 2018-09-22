@@ -1,1 +1,0 @@
-FROM nginx-plus-ingress:edge
